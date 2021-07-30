@@ -7,3 +7,6 @@ _site/
 *.lock
 .idea/
 .DS_Store
+vendor/
+.bundle/
+Gemfile
