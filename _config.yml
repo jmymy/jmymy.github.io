@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+
+title: jmymy.net home
+baseurl: ""
+url: https://jmymy.github.io
+paginate: 3
+markdown: kramdown
+github_username:  jmymy
+twitter_username: jmeyers2
+gems: [jekyll-paginate]
