@@ -9,16 +9,21 @@ title: The Site of Jonathan Meyers
 		<a href="{{site.baseurl}}{{post.url}}">
 			<img class="card-img-top img-fluid" src="{{ site.baseurl }}{{ post.image }}" class="image">
 		</a>
-        {% else %}
-		<a href="{{post.link}}">
-			<img class="card-img-top img-fluid" src="{{ site.baseurl }}{{ post.image }}" class="image">
-		</a>
-        {% endif %}
         <div class="card-block">
             <h4 class="card-title text-xs-center"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h4>
             <p class="card-text text-xs-center">{{ post.date | date: "%B %-d, %Y" }}</p>
             <p class="card-text text-xs-center">{{ post.tag }}</p>
         </div>
+        {% else %}
+		<a href="{{post.link}}">
+			<img class="card-img-top img-fluid" src="{{ site.baseurl }}{{ post.image }}" class="image">
+		</a>
+        <div class="card-block">
+            <h4 class="card-title text-xs-center"><a href="{{post.link}}">{{ post.title }}</a></h4>
+            <p class="card-text text-xs-center">{{ post.date | date: "%B %-d, %Y" }}</p>
+            <p class="card-text text-xs-center">{{ post.tag }}</p>
+        </div>
+        {% endif %}
     </div>
     {% endfor %}
 </div>
