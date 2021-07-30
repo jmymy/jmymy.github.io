@@ -3,7 +3,7 @@ layout: post
 title: Security Enablement with Cybersponse | Cybrary | BlackHat 2019
 date: 2019-08-16 03:42
 image: /images/youtube.jpeg
-tag: Podcast
+tag: YouTube
 categories: [youtube]
 link: https://youtu.be/0kTggq68SJg
 ---

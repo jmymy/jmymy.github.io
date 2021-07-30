@@ -3,7 +3,7 @@ layout: post
 title: A bigger budget has its numerous benefits but it doesn’t magically scale teams or thwart threats.
 date: 2021-06-03 03:49
 image: /images/article.jpeg
-tag: Podcast
+tag: Article
 categories: [article]
 link: https://www.nextgov.com/cybersecurity/2021/06/why-government-needs-more-money-fix-cybersecurity-issues/174472/
 ---

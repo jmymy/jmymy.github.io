@@ -3,7 +3,7 @@ layout: post
 title: Data Forensics with Atlantic Data Forensics | Cybrary | BlackHat 2019
 date: 2019-08-16 03:32
 image: /images/youtube.jpeg
-tag: Podcast
+tag: YouTube
 categories: [youtube]
 link: https://youtu.be/h-o11QTlsFM
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Hacking Point | Cybrary & Check Point Software Technologies | BlackHat 2019
 date: 2019-08-15 03:49
 image: /images/youtube.jpeg
-tag: Podcast
+tag: YouTube
 categories: [youtube]
 link: https://youtu.be/4Bwa2L6PpbA
 ---

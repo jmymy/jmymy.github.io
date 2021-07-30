@@ -3,7 +3,7 @@ layout: post
 title: Security Awareness with Bricata | Cybrary | BlackHat 2019
 date: 2019-08-16 03:40
 image: /images/youtube.jpeg
-tag: Podcast
+tag: YouTube
 categories: [youtube]
 link: https://youtu.be/FQr0meR9VgI
 ---

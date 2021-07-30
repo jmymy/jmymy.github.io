@@ -3,7 +3,7 @@ layout: post
 title: Tripwire and DevSecOps | Cybrary | BlackHat 2019
 date: 2019-08-16 03:49
 image: /images/youtube.jpeg
-tag: Podcast
+tag: YouTube
 categories: [youtube]
 link: https://youtu.be/ZiFws0vPfBA
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Hawaii group lures remote workers amid pandemic downturn
 date: 2021-03-22 03:49
 image: /images/article.jpeg
-tag: Podcast
+tag: Article
 categories: [podcast, article]
 link: https://www.marketplace.org/2021/03/22/hawaii-group-lures-remote-workers-amid-pandemic-downturn/
 ---
