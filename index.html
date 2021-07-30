@@ -3,15 +3,15 @@ layout: default
 title: The Site of Jonathan Meyers
 ---
 <div class="card-columns">
-    {% for media in site.media %}
+    {% for post in site.posts %}
     <div class="card bg-light">
-		<a href="{{site.baseurl}}{{media.url}}">
-			<img class="card-img-top img-fluid" src="{{ site.baseurl }}{{ media.image }}" class="image">
+		<a href="{{site.baseurl}}{{post.url}}">
+			<img class="card-img-top img-fluid" src="{{ site.baseurl }}{{ post.image }}" class="image">
 		</a>
         <div class="card-block">
-            <h4 class="card-title text-xs-center"><a href="{{site.baseurl}}{{media.url}}">{{ media.title }}</a></h4>
-            <p class="card-text text-xs-center">{{ media.date | date: "%B %-d, %Y" }}</p>
-            <p class="card-text text-xs-center">{{ media.tag }}</p>
+            <h4 class="card-title text-xs-center"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h4>
+            <p class="card-text text-xs-center">{{ post.date | date: "%B %-d, %Y" }}</p>
+            <p class="card-text text-xs-center">{{ post.tag }}</p>
         </div>
     </div>
     {% endfor %}
